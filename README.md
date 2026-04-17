@@ -16,4 +16,4 @@ jijij weno yap :3
 ![texto alternativo imagen](https://media.tenor.com/uBIUetIh2U8AAAAe/who-is-that.png)
 
 una imagen de ruta:
-![imagen](IMAGENES/lois.png)
+![imagen](IMAGENES/lois.jpg)
